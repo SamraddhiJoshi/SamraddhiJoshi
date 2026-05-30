@@ -18,7 +18,7 @@
 I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I love crafting responsive, high-performance, and scalable web applications. Currently, I am expanding my skill set, solving real-world software challenges, and collaborating on impactful tech projects.
 
 - 🎓 **Education**: Pursuing B.Tech in Computer Science & Engineering from **Acropolis Institute of Technology and Research (AITR), Indore** (2023 - 2027) — Current CGPA: **8.05**.
-- 🏫 **Schooling**: Completed HSC (75%) and SSC (87%) from **Kendriya Vidyalaya, Barwaha (CBSE)**.
+- 🏫 **Schooling**: Completed HSC and SSC (87%) from **Kendriya Vidyalaya, Barwaha (CBSE)**.
 - 💡 **Interests**: Web Development, UI/UX Design, and Software Architecture.
 - 🎵 **Hobbies**: Singing, Badminton, and listening to music.
 - 🌱 **Strengths**: Quick learner, highly adaptable, and a dedicated team player.
