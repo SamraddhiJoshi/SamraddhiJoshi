@@ -84,13 +84,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamraddhiJoshi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="60%" />
-</p>
-
----
-
-<p align="center">
-  ⭐ <i>Feel free to star my repositories if you find my work helpful! Let's connect and build something amazing together.</i> ⭐
-</p>
