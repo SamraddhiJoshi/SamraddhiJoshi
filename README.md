@@ -50,7 +50,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
 
 ### 📂 Highlighted Projects
 
-#### StayOrbit (Full-Stack Property Rental Web Application)(https://github.com/SamraddhiJoshi)
+#### 🎓 [StayOrbit (Full-Stack Property Rental Web Application)](https://github.com/SamraddhiJoshi)
 * **Role**: Full Stack Developer
 * **Duration**: 3 Months 
 * **Description**: Developed a feature-rich MERN/Node-based accommodation booking platform allowing users to explore, list, review, and manage rental properties with interactive mapping and secure authentication.
