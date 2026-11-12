@@ -50,11 +50,11 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
 
 ### 📂 Highlighted Projects
 
-#### 🚗 [Smart Parking System](https://github.com/SamraddhiJoshi)
-* **Role**: Frontend Developer
-* **Duration**: 6 Months (July 2025 – January 2026)
-* **Description**: Developed a responsive, web-based Smart Parking System featuring real-time slot monitoring, booking management, and highly interactive user interfaces.
-* **Tech Stack**: HTML5, CSS3, JavaScript, Git
+#### StayOrbit (Full-Stack Property Rental Web Application)(https://github.com/SamraddhiJoshi)
+* **Role**: Full Stack Developer
+* **Duration**: 3 Months 
+* **Description**: Developed a feature-rich MERN/Node-based accommodation booking platform allowing users to explore, list, review, and manage rental properties with interactive mapping and secure authentication.
+* **Tech Stack**: MongoDB, Express.js, React.js, Node.js
 
 #### 🎓 [Department Management Portal](https://github.com/SamraddhiJoshi)
 * **Role**: MERN Stack Developer (Frontend Focused)
@@ -71,8 +71,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
   - Awarded a cash prize of **INR 5,000** for innovative problem-solving and excellent teamwork.
 - 🚀 **Smart India Hackathon (SIH) 2025**
   - Qualified the competitive internal evaluation round at AITR.
-- 💻 **Active Hackathon Competitor**
-  - Frequently participate in coding contests, hackathons, and collaborative engineering challenges.
+- 💻  **Awarded “Best Project” at Civil War 2.0 and Winner at DBMS Exhibition for developing innovative database-driven software solutions**
 
 ---
 
@@ -80,6 +79,8 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
 
 - 🎓 **Postman API Fundamentals Student Expert Certification**
 - 🎓 **NPTEL Certification in Database Management Systems (DBMS)**
+- 🎓 **MongoDB Associate Developer Certification – MongoDB University**
+- 🎓 **Express.js, React.js ,MongoDB & Node.js – Infosys Springboard**
 
 ---
 
