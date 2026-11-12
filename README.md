@@ -84,12 +84,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN Stack**. I
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamraddhiJoshi&show_icons=true&theme=radical&hide_border=true" alt="Samraddhi Joshi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamraddhiJoshi&theme=radical&hide_border=true" alt="Samraddhi Joshi's Streak Stats" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamraddhiJoshi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="60%" />
